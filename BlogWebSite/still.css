@@ -1,0 +1,50 @@
+h1{
+    
+    font-size: 6rem;
+    
+
+
+}
+h1::first-letter{
+    font-size:7rem;
+}
+#sidebar{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/65/236/842/portrait-display-vertical-space-wallpaper-preview.jpg");
+
+    color:white;
+    padding-top: 120px;
+}
+.uzunluk{
+    height:932px;
+}
+
+.yazi{
+    font-family: 'Imbue', serif;
+    padding-left: 90px;
+
+    
+    
+}
+#resimKonum{
+    padding-left:200px;
+    padding-top: 120px;
+
+}
+.icKonum{
+    padding-top: 300px;
+}
+#resim{
+    border:5px solid grey;
+    width:50%;
+  
+}
+
+#main{
+ 
+    font-family: 'Yusei Magic', sans-serif;
+    letter-spacing: 1.5px;
+    padding-left: 90px;
+ 
+    background-color:white;
+}
+
